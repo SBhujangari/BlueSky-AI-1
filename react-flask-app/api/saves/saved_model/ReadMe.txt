@@ -1,1 +1,0 @@
-Saved model with 5 epochs. Validation accuracy should be 0.9168.

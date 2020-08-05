@@ -1,2 +1,0 @@
-FLASK_APP=modelinterface.py
-FLASK_ENV=development
